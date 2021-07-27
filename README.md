@@ -1,8 +1,13 @@
 # TMI ( Test automation Management Infrastucture )
 
+<br>
+
 ## SSAFY X SAMSUNG SDS (기업연계 프로젝트)
 
 [TMI Notion](https://www.notion.so/longnh214/d13c839d33b94377b138427b4d743a7a?v=4ba79c8783a9492c864e3f640ead7cde)
+
+<br>
+
 
 ## 프로젝트 개요
 
@@ -12,17 +17,19 @@
   - 테스트 자동화란, 테스트 과정 일부 또는 전체를 수작업이 아닌 자동화된 프로그램을 통해서 수행하는 기법
   - 현업에서는 이런 테스트 자동화를 거치고 난 후에 배포가 이뤄짐
 
-## Document
 
-<details>
-    <summary> Wireframe</summary>
-    <ul>
-![ProjectList.png](docs/Wireframe/ProjectList.png)
-![ProjectDetail.png](docs/Wireframe/ProjectDetail.png)
-![Test Detail.png](docs/Wireframe/Test Detail.png)
-![TestJobList.png](docs/Wireframe/TestJobList.png)
-    </ul>
-</details>
+<br>
+<br>
+
+
+## Wireframe
+![ProjectList](docs/Wireframe/ProjectList.png)
+![ProjectDetail](docs/Wireframe/ProjectDetail.png)
+![Test Detail](docs/Wireframe/Test Detail.png)
+![TestJobList](docs/Wireframe/TestJobList.png)
+
+<br>
+<!-- ## Document -->
 <details>
     <summary> Architecture </summary>
     <ul>
