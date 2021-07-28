@@ -1,16 +1,17 @@
 # TMI ( Test automation Management Infrastucture )
 
 <br>
+<br>
+<br>
 
 ## SSAFY X SAMSUNG SDS (기업연계 프로젝트)
-
+<br>
 [TMI Notion](https://www.notion.so/longnh214/d13c839d33b94377b138427b4d743a7a?v=4ba79c8783a9492c864e3f640ead7cde)
 
 <br>
-
+<br>
 
 ## 프로젝트 개요
-
 - **진행기간** : 2021.04.12 ~ (ing)
 - **만든이** : 강세준, 김영록, 백현오, 이병희, 전원표, 최낙훈
 - **기획 배경** : 
@@ -18,24 +19,19 @@
   - 현업에서는 이런 테스트 자동화를 거치고 난 후에 배포가 이뤄짐
 
 
-<br>
-<br>
-
-
 ## Wireframe
+
 ![ProjectList](docs/Wireframe/ProjectList.png)
 ![ProjectDetail](docs/Wireframe/ProjectDetail.png)
 ![Test Detail](docs/Wireframe/Test Detail.png)
 ![TestJobList](docs/Wireframe/TestJobList.png)
 
-<br>
-<!-- ## Document -->
-<details>
-    <summary> Architecture </summary>
-    <ul>
+
+
+## Architecture
+
 ![architecture.png](docs/Architecture/architecture.png)
-    </ul>
-</details>
+<!-- ## Document -->
 <details>
     <summary> Sequence Diagram </summary>
     <ul>
