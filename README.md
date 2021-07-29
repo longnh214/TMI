@@ -18,6 +18,9 @@
   - 테스트 자동화란, 테스트 과정 일부 또는 전체를 수작업이 아닌 자동화된 프로그램을 통해서 수행하는 기법
   - 현업에서는 이런 테스트 자동화를 거치고 난 후에 배포가 이뤄짐
 
+<br>
+<br>
+
 
 ## Wireframe
 
@@ -31,15 +34,19 @@
 ## Architecture
 
 ![architecture.png](docs/Architecture/architecture.png)
-<!-- ## Document -->
-<details>
-    <summary> Sequence Diagram </summary>
-    <ul>
+
+<br>
+
+
+## Sequence Diagram
+
+
 ![Test Data Collect](docs/Sequence_Diagram/Test Data Collect.png)
 ![Report Select](docs/Sequence_Diagram/Report Select.png)
-    </ul>
-</details>
 
+
+
+<!-- ## Document -->
 <details>
     <summary> Milestone</summary>
     <ul>
