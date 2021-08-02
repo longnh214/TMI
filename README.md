@@ -46,15 +46,14 @@
 ![Test Data Collect](docs/Sequence_Diagram/Test Data Collect.png)
 ![Report Select](docs/Sequence_Diagram/Report Select.png)
 
+<br>
 
+## Milestone
+
+![MileStone](docs/MileStone/MileStone.png)
+  
 
 <!-- ## Document -->
-<details>
-    <summary> Milestone</summary>
-    <ul>
-![MileStone](docs/MileStone/MileStone.png)
-    </ul>
-</details>
 
 <details>
     <summary> ERD Diagram</summary>
