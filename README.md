@@ -32,6 +32,8 @@
 ![TestJobList](docs/Wireframe/TestJobList.png)
 
 
+<br>
+
 
 ## Architecture
 
@@ -53,16 +55,16 @@
 ![MileStone](docs/MileStone/MileStone.png)
   
 
+<br>
 <!-- ## Document -->
 
-<details>
-    <summary> ERD Diagram</summary>
-    <ul>
+## ERD Diagram
+
 ![erd](docs/ERD_diagram/erd.png)
-    </ul>
-</details>
 
 
+<br>
+<br>
 
 
 
@@ -71,39 +73,39 @@
 ![tech_stack](docs/Tech_stack/tech_stack.png)
 
 
-
+<br>
 
 
 ## Capture Image
 
-프로젝트 목록
+### 프로젝트 목록
 
 ![projectlist](docs/Capture/projectlist.png)
 
 
 
 
-프로젝트 내 App 목록
+### 프로젝트 내 App 목록
 
 ![projectdetail](docs/Capture/projectdetail.png)
 
 
 
 
-App history 화면
+### App history 화면
 
 ![projecthistory](docs/Capture/apphistory.png)
 
 
 
-Unit Test 결과
+### Unit Test 결과
 
 ![testhistory](docs/Capture/testhistory.png)
 
 
 
 
-커버리지 상세 화면 및 클래스 별 커버리지 화면
+### 커버리지 상세 화면 및 클래스 별 커버리지 화면
 
 ![coveragehistory](docs/Capture/coveragehistory.png)
 
@@ -111,7 +113,7 @@ Unit Test 결과
 
 
 
-
+<br>
 
 
 
