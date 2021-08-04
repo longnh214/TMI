@@ -28,7 +28,7 @@
 
 ![ProjectList](docs/Wireframe/ProjectList.png)
 ![ProjectDetail](docs/Wireframe/ProjectDetail.png)
-![Test Detail](docs/Wireframe/Test Detail.png)
+![TestDetail](docs/Wireframe/TestDetail.png)
 ![TestJobList](docs/Wireframe/TestJobList.png)
 
 
@@ -53,7 +53,7 @@
 ## Milestone
 
 ![MileStone](docs/MileStone/MileStone.png)
-  
+
 
 <br>
 <!-- ## Document -->
