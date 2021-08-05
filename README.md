@@ -44,9 +44,8 @@
 
 ## Sequence Diagram
 
-
-![Test Data Collect](docs/Sequence_Diagram/Test Data Collect.png)
-![Report Select](docs/Sequence_Diagram/Report Select.png)
+![TestDataCollect](docs/Sequence_Diagram/TestDataCollect.png)
+![ReportSelect](docs/Sequence_Diagram/ReportSelect.png)
 
 <br>
 
